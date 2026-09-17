@@ -47,7 +47,7 @@ Worked as part of an **AI/ML team** under the guidance of an experienced data sc
 
 ---
 
-# Technical Focus
+## Technical Focus
 
 ### Current Focus
 
@@ -61,49 +61,49 @@ Worked as part of an **AI/ML team** under the guidance of an experienced data sc
 
 ### Artificial Intelligence & Machine Learning
 
-- Artificial Intelligence <img src="https://skillicons.dev/icons?i=ai" height="25" />
-- Machine Learning <img src="https://skillicons.dev/icons?i=sklearn" height="25" />
-- Deep Learning <img src="https://skillicons.dev/icons?i=pytorch" height="25" />
-- Large Language Models <img src="https://skillicons.dev/icons?i=openai" height="25" />
-- Fine-Tuning <img src="https://skillicons.dev/icons?i=huggingface" height="25" />
-- Supervised Fine-Tuning <img src="https://skillicons.dev/icons?i=huggingface" height="25" />
-- Computer Vision <img src="https://skillicons.dev/icons?i=opencv" height="25" />
-- Image Analysis <img src="https://skillicons.dev/icons?i=opencv" height="25" />
-- Audio Classification <img src="https://skillicons.dev/icons?i=pytorch" height="25" />
-- Feature Extraction <img src="https://skillicons.dev/icons?i=sklearn" height="25" />
-- Object Detection <img src="https://skillicons.dev/icons?i=opencv" height="25" />
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Fine-Tuning
+- Supervised Fine-Tuning
+- Computer Vision
+- Image Analysis
+- Audio Classification
+- Feature Extraction
+- Object Detection
 
 ### Embedded & Computer Engineering
 
-- Embedded Systems <img src="https://skillicons.dev/icons?i=arduino" height="25" />
-- Raspberry Pi <img src="https://skillicons.dev/icons?i=raspberrypi" height="25" />
-- ESP32 / ESP32-CAM <img src="https://skillicons.dev/icons?i=arduino" height="25" />
-- Arduino <img src="https://skillicons.dev/icons?i=arduino" height="25" />
-- FPGA <img src="https://skillicons.dev/icons?i=verilog" height="25" />
-- IoT Sensors <img src="https://skillicons.dev/icons?i=arduino" height="25" />
+- Embedded Systems
+- Raspberry Pi
+- ESP32 / ESP32-CAM
+- Arduino
+- FPGA
+- IoT Sensors
 - Computer Architecture
 - Circuit Design and Analysis
 
 ### Programming
 
-- Python <img src="https://skillicons.dev/icons?i=python" height="25" />
-- C++ <img src="https://skillicons.dev/icons?i=cpp" height="25" />
-- Java <img src="https://skillicons.dev/icons?i=java" height="25" />
-- SQL <img src="https://skillicons.dev/icons?i=mysql" height="25" />
+- Python
+- C++
+- Java
+- SQL
 - Assembly Language — MIPS, x8086
-- Verilog <img src="https://skillicons.dev/icons?i=verilog" height="25" />
+- Verilog
 
 ### Software & Engineering Tools
 
-- MATLAB <img src="https://skillicons.dev/icons?i=matlab" height="25" />
-- Xilinx Vivado <img src="https://skillicons.dev/icons?i=xilinx" height="25" />
-- Cisco Packet Tracer <img src="https://skillicons.dev/icons?i=cisco" height="25" />
+- MATLAB
+- Xilinx Vivado
+- Cisco Packet Tracer
 - MIPS MARS
 - Proteus
 - LTspice
-- Microsoft SQL Server <img src="https://skillicons.dev/icons?i=mssql" height="25" />
-- Visual Studio <img src="https://skillicons.dev/icons?i=visualstudio" height="25" />
-- Visual Studio Code <img src="https://skillicons.dev/icons?i=vscode" height="25" />
+- Microsoft SQL Server
+- Visual Studio
+- Visual Studio Code
 
 ---
 

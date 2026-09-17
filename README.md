@@ -14,7 +14,7 @@ My current focus is **Automation and Intelligent Automation**, with an interest 
 
 ## Profile
 
-My academic and project experience spans both software and hardware-oriented engineering. I have worked on projects involving **Machine Learning, Deep Learning, Computer Vision, audio classification, autonomous robotic systems, FPGA-based digital systems, embedded systems, database applications, and computer networks**.
+My academic and project experience spans both software and hardware-oriented engineering. I have worked on projects involving **Machine Learning, Deep Learning, Computer Vision, Large Language Models, audio classification, autonomous robotic systems, FPGA-based digital systems, embedded systems, database applications, and computer networks**.
 
 While AI, Machine Learning, and Deep Learning form an important part of my technical foundation, I am currently expanding my expertise toward **Automation, Industrial Control, PLC-based Systems, Robotics, and Intelligent Automation**.
 
@@ -24,10 +24,22 @@ My objective is to develop systems that combine **automation and engineering wit
 
 ## Education
 
-**National University of Sciences and Technology (NUST)**
-Bachelor of Engineering in Computer Engineering
-Islamabad, Pakistan
+**National University of Sciences and Technology (NUST)**  
+Bachelor of Engineering in Computer Engineering  
+Islamabad, Pakistan  
 **September 2022 – September 2026**
+
+---
+
+## Internship Experience
+
+### AI/ML Intern — Ebryx
+
+**July 2025 – September 2025**
+
+Worked as part of an **AI/ML team** under the guidance of an experienced data scientist, contributing to AI-driven tasks and applying **Machine Learning and Deep Learning techniques to real-world problems**.
+
+**Focus:** Artificial Intelligence · Machine Learning · Deep Learning · Applied AI
 
 ---
 
@@ -35,64 +47,79 @@ Islamabad, Pakistan
 
 ### Current Focus
 
-* Automation Engineering
-* Industrial Automation
-* PLC-Based Systems
-* Control Systems
-* Robotics
-* Intelligent Automation
-* Industrial IoT
+- Automation Engineering
+- Industrial Automation
+- PLC-Based Systems
+- SCADA
+- TIA Portal
+- Control Systems
+- Intelligent Automation
 
 ### Artificial Intelligence & Machine Learning
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Image Analysis
-* Audio Classification
-* Feature Extraction
-* Object Detection
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Fine-Tuning
+- Supervised Fine-Tuning
+- Computer Vision
+- Image Analysis
+- Audio Classification
+- Feature Extraction
+- Object Detection
 
 ### Embedded & Computer Engineering
 
-* Embedded Systems
-* Raspberry Pi
-* ESP32 / ESP32-CAM
-* Arduino
-* FPGA
-* IoT Sensors
-* Digital System Design
-* Computer Architecture
-* Circuit Design and Analysis
+- Embedded Systems
+- Raspberry Pi
+- ESP32 / ESP32-CAM
+- Arduino
+- FPGA
+- IoT Sensors
+- Computer Architecture
+- Circuit Design and Analysis
 
 ### Programming
 
-* Python
-* C++
-* Java
-* SQL
-* Assembly Language — MIPS, x8086
-* Verilog
+- Python
+- C++
+- Java
+- SQL
+- Assembly Language — MIPS, x8086
+- Verilog
 
 ### Software & Engineering Tools
 
-* FastAPI
-* PostgreSQL
-* MATLAB
-* Xilinx Vivado
-* Cisco Packet Tracer
-* MIPS MARS
-* Proteus
-* AutoCAD
-* LTspice
-* Microsoft SQL Server
-* Visual Studio
-* Visual Studio Code
+- MATLAB
+- Xilinx Vivado
+- Cisco Packet Tracer
+- MIPS MARS
+- Proteus
+- LTspice
+- Microsoft SQL Server
+- Visual Studio
+- Visual Studio Code
 
 ---
 
-# Selected Projects
+# Featured Projects
+
+## SERENITY — Smart Emotion Recognition & Neural Intervention Technology
+
+Final Year Project focused on developing an empathetic AI-based conversational system using a fine-tuned **TinyLlama-1.1B-Chat-v1.0** model.
+
+The system uses **4-bit quantization and QLoRA (Quantized Low-Rank Adaptation)** to improve computational efficiency during model adaptation. The training workflow uses **Supervised Fine-Tuning (SFT)** over 5 epochs with a context length of 2048 tokens.
+
+The project incorporates **CNN and LSTM-based emotion detection** and enables real-time interaction using **Text-to-Speech (TTS), Speech-to-Text (STT), and Tiny Whisper**. A database is also used to store conversations between users and the model.
+
+The trained LoRA adapters are merged back into the base model to produce a standalone inference model.
+
+**Focus:** Large Language Models · Deep Learning · Fine-Tuning · Emotion Recognition · NLP · Speech Processing
+
+**Technologies:** Python · TinyLlama · QLoRA · 4-bit Quantization · SFT · CNN · LSTM · Tiny Whisper · TTS · STT
+
+---
 
 ## AI Restaurant Assistant
 
@@ -100,7 +127,7 @@ An AI-powered conversational system designed to support restaurant interactions 
 
 **Focus:** Artificial Intelligence · Backend Development · Intelligent Systems
 
-**Technologies:** Python · FastAPI · PostgreSQL · OpenAI API
+**Technologies:** Python · FastAPI · OpenAI API
 
 ---
 
@@ -136,15 +163,13 @@ Developed a machine-learning-based audio classification system using extracted a
 
 ---
 
-## Database System for Universal Metals Ltd.
+# Additional Engineering Projects
+
+### Database System for Universal Metals Ltd.
 
 Designed and implemented a database system for an industry client, incorporating front-end and back-end components for data management.
 
 **Focus:** Database Systems · Software Development · Application Development
-
----
-
-# Additional Engineering Projects
 
 ### RFID System with Fingerprint Authentication
 
@@ -170,34 +195,28 @@ Designed and implemented a digital clock and alarm system using logical componen
 
 # Areas of Interest
 
-* Industrial Automation
-* Intelligent Automation
-* PLC and Control Systems
-* Robotics
-* Industrial IoT
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Embedded Systems
-* Autonomous Systems
-* Digital System Design
-* Computer Architecture
+- Industrial Automation
+- Intelligent Automation
+- PLC and Control Systems
+- Robotics
+- Industrial IoT
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Computer Vision
+- Embedded Systems
+- Autonomous Systems
+- Digital System Design
+- Computer Architecture
 
 ---
 
 # Leadership & Activities
 
-* **Director, Admin HR & Promotions — COMPPEC 2025**
-* **Team Lead, Speed Programming — COMPPEC 2024**
-* **Deputy Director, Socials — Olympiad 2024**
-
----
-
-# Professional Development
-
-**Cybersecurity Crash Course — WsCube Cyber Security**
-2025
+- **Director, Admin HR & Promotions — COMPPEC 2025**
+- **Team Lead, Speed Programming — COMPPEC 2024**
+- **Deputy Director, Socials — Olympiad 2024**
 
 ---
 

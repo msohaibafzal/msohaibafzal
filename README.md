@@ -1,10 +1,14 @@
+<div align="center">
+
 # Muhammad Sohaib Afzal
 
-### Computer Engineer | Automation & Intelligent Systems | AI/ML/DL
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineer;Automation+%26+Intelligent+Systems;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Intelligent+Engineering+Systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Sohaib%20Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msohaibafzal/)
 [![GitHub](https://img.shields.io/badge/GitHub-msohaibafzal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msohaibafzal)
 [![Email](https://img.shields.io/badge/Email-afzalsohaib69%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afzalsohaib69@gmail.com)
+
+</div>
 
 I am a **Computer Engineering graduate from the National University of Sciences and Technology (NUST)** with a strong technical foundation in **Artificial Intelligence, Machine Learning, Deep Learning, Embedded Systems, and Software Development**.
 
